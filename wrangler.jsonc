@@ -16,17 +16,13 @@
     "binding": "ASSETS",
     "not_found_handling": "single-page-application",
   },
-  // Hyperdrive binding is optional - if not provided, app will use mock data
-  // To enable Hyperdrive, uncomment and configure properly:
-  /*
     "hyperdrive": [
       {
         "binding": "HYPERDRIVE",
-        "id": "YOUR_HYPERDRIVE_ID",
-        "localConnectionString": "postgresql://myuser:mypassword@localhost:5432/mydatabase"
+        "id": "a6fcc087e1be4370b0fbd757fe62d9f2",
+        "localConnectionString": "postgres://ppfi-adm:npg_gKNL6DHPfTz3@ep-tiny-night-a268aawo.eu-central-1.pg.koyeb.app/koyebdb"
       }
     ],
-    */
   "placement": {
     "mode": "smart",
   },
